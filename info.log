@@ -1,0 +1,13 @@
+{"message":"ZIP WAS NOT INPUTTED AS A 5 DIGIT INTEGER","level":"error"}
+{"message":"Person with 111c99e1-1ef2-4e9d-b9f7-6299a922e77c has been made","level":"info"}
+{"message":"Person with dd1f177a-062f-4825-b2e0-d8a483d8d66f has been made","level":"info"}
+{"message":"ZIP WAS NOT INPUTTED AS A 5 DIGIT INTEGER","level":"error"}
+{"message":"Person with d8cd99fe-347e-4b73-a1eb-ac0322d7b663 has been made","level":"info"}
+{"message":"ZIP WAS NOT INPUTTED AS A 5 DIGIT INTEGER","level":"error"}
+{"message":"Person with e396f09e-41d1-40a5-8ff4-a65cc6fbe6bb has been made","level":"info"}
+{"message":"Person with 7711f36e-d4be-4a5d-927e-05d6237225da has been made","level":"info"}
+{"message":"Address with 7711f36e-d4be-4a5d-927e-05d6237225da id has been deleted","level":"info"}
+{"message":"Unauthorized request to path: /address","level":"error"}
+{"message":"Person with 4b7c0abd-e108-49b6-af71-b19ae4cc50ce has been made","level":"info"}
+{"message":"Person with 4e576f68-aefc-4518-a9d2-0cbb9f34d64b has been made","level":"info"}
+{"message":"Person with ca336ed0-64c1-4c0f-adec-c9235838b1b1 has been made","level":"info"}

@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "firstName": "Donovan",
+        "lastName": "Le",
+        "address1": "123 Me St.",
+        "address2": "",
+        "city": "Houston",
+        "state": "IA",
+        "zip": 12345
+    }
+]
